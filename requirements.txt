@@ -1,0 +1,11 @@
+#paste the following in the requirements.txt
+scikit-learn
+xgboost
+mlflow
+pandas
+numpy
+pyyaml
+joblib
+fastapi
+uvicorn
+streamlit
